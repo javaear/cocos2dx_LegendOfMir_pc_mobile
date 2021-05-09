@@ -1,0 +1,17 @@
+﻿id	sz_class	sz_name	sz_cn_name	type	needBlood	needMagic	baseDamage	growDamage	attackType	runningTime	castRange	coolDown	action	effectid	flyeffectid	boomeffectid	triggerRate	priority	sz_icon	specialFunc	petId
+1	SlashSpell	slash	普通砍击	1		0	0	1	1		1	0	3				1	1			
+2	ThrustFencing	ThrustFencing	刺杀剑术	1		0	0	1.5	1		1	0	3	7			1	2	UIRes/skillIcon/000046.png		
+3	RangeSpell	thunder	雷电术	2		10	0	2	2		10	0	8	11		12	1	1	UIRes/skillIcon/000036.png		
+4	RangeSpell	fireball	火球术	2		10	0	1.5	2		10	0	8	13	14	15	1	1	UIRes/skillIcon/000002.png		
+5	SlashSpell	fireSlash	火焰剑术	1		10	100	3	1		1	4	3	10			0.2	4	UIRes/skillIcon/000142.png		
+6	HalfMoonSlash	halfMoonSlash	半月剑术	1		15	0	2	1		1	0	3	9			1	3	UIRes/skillIcon/000076.png		
+7	BuffSpell	magicShield	魔法盾	3		20	200	0.3	0	10	0	3	8	55		56	1		UIRes/skillIcon/000100.png		
+8	FireWall	fireWall	火墙	3		30	100	0	2	4	10	0	8	75		74	1		UIRes/skillIcon/000012.png		
+9	GodAtkSpell	slash	神兽攻击	1		0	100	0.3	1		1	0	9	61			1	10			
+10	CallPet	callPet	召唤宠物	4		20	100	0.3	2		0	0	8	66			1	10	UIRes/skillIcon/000056.png		6
+11	GodAtkSpell	slash	飞蛾攻击	1		0	20	0.3	1		1	0	3	73			1	10	UIRes/skillIcon/000056.png		
+12	SpeedUpSpell	SpeedUpSpell	暴怒	5		20	0.4		1	10	0	5	8				1		UIRes/skillIcon/000056.png		
+13	GodAtkSpell	slash	魔龙教主大功	1		0	0	1	1	0	1	0	3	86			1				
+14	SlashSpell	slash	猪卫技能	1		0	0	1.2	1	0	1	0	3	90			1				
+15	SlashSpell	slash	蛇蝎技能	1		0	0	1.2	1	0	1	0	3	88			1				
+16	ShootSpell	slash	射箭	2		0	10	1.1	1	0	5		3		100		1	2			

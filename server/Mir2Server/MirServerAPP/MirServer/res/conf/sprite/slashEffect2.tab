@@ -1,0 +1,9 @@
+id	sz_name	sz_path	offset	count	isLoops	delay	step
+1	SlashEffect2UpStand	effect_png/	180	6	1	0.2	1
+2	SlashEffect2UpRightStand	effect_png/	190	6	1	0.2	1
+3	SlashEffect2RightStand	effect_png/	200	6	1	0.2	1
+4	SlashEffect2RightDownStand	effect_png/	210	6	1	0.2	1
+5	SlashEffect2DownStand	effect_png/	220	6	1	0.2	1
+6	SlashEffect2DownLeftStand	effect_png/	230	6	1	0.2	1
+7	SlashEffect2LeftStand	effect_png/	240	6	1	0.2	1
+8	SlashEffect2LeftUpStand	effect_png/	250	6	1	0.2	1

@@ -1,0 +1,4 @@
+#?Äz																
+id	sz_name	sz_path	offset	maxHp	maxMp	attack	defense	lucky	strength	magic	aligity	taoistMagic	critRate	defenCrit	precise	dodge
+1	Ì«Ì¥EÈ´	mon3	720	100	100	{{100,1000}}	{{100,200}}	10	10	10	10	10	10	10	10	10
+2	ÂãÌåÄĞÈË	human1	0	100	100	{{100,1000}}	{{100,200}}	10	10	10	10	10	10	10	10	10

@@ -1,0 +1,5 @@
+﻿  SQLiter.cpp
+API.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+    正在创建库 F:\项目\Mir2Server\Debug.win32\CocosCom.lib 和对象 F:\项目\Mir2Server\Debug.win32\CocosCom.exp
+  CocosCom.vcxproj -> F:\项目\Mir2Server\Debug.win32\CocosCom.dll
+  CocosCom.vcxproj -> F:\项目\Mir2Server\Debug.win32\CocosCom.pdb (Partial PDB)

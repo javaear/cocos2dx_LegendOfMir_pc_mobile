@@ -1,0 +1,1 @@
+xcopy D:\Game\Mir2\Mir2\simulator\win32\res\conf D:\Game\MirServer\Debug\res\conf /s /e /h /Y

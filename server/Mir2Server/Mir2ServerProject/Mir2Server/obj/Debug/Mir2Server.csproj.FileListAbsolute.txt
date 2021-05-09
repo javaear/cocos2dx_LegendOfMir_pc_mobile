@@ -1,0 +1,15 @@
+F:\项目\Mir2Server\Mir2Server\bin\Debug\Mir2Server.exe.config
+F:\项目\Mir2Server\Mir2Server.exe.config
+F:\项目\Mir2Server\Debug\Mir2Server.exe.config
+F:\项目\Mir2Server\Debug.win32\Mir2Server.exe.config
+F:\项目\Mir2Server\Debug.win32\Mir2Server.exe
+F:\项目\Mir2Server\Debug.win32\Mir2Server.pdb
+F:\项目\Mir2Server\Mir2Server\obj\Debug\Mir2Server.csprojResolveAssemblyReference.cache
+F:\项目\Mir2Server\Mir2Server\obj\Debug\Mir2Server.Form1.resources
+F:\项目\Mir2Server\Mir2Server\obj\Debug\Mir2Server.Properties.Resources.resources
+F:\项目\Mir2Server\Mir2Server\obj\Debug\Mir2Server.csproj.GenerateResource.Cache
+F:\项目\Mir2Server\Mir2Server\obj\Debug\Mir2Server.exe
+F:\项目\Mir2Server\Mir2Server\obj\Debug\Mir2Server.pdb
+F:\项目\Mir2Server\Mir2Server\obj\Debug\Mir2Server.MapFrame.resources
+F:\项目\Mir2Server\Mir2Server\obj\Debug\Mir2Server.MonFrame.resources
+F:\项目\Mir2Server\Mir2Server\obj\Debug\Mir2Server.ItemFrame.resources

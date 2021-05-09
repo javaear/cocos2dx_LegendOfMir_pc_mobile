@@ -1,0 +1,35 @@
+﻿id	sz_name	sz_name_en	sz_path	sz_monster_distribute	sz_portal_conf	sz_npc_conf	mmapId	big_mmapId	masterCity	tb_masterCityPos
+1	比奇省	dust	map/0.map	conf/map/map1MonsterConf.tab	conf/map/map1Portal.tab	conf/map/map1Npc.tab		100	1	{x=332,y=429}
+2	沃玛森林	dust	map/1.map	conf/map/map2MonsterConf.tab	conf/map/map2Portal.tab	conf/map/map2Npc.tab			1	
+3	赌场	DarkCastle	map/B010.map	conf/map/map3MonsterConf.tab	conf/map/map3Portal.tab	conf/map/map3Npc.tab			4	
+4	盟重省	Mengchong	map/3.map	conf/map/map4MonsterConf.tab	conf/map/map4Portal.tab	conf/map/map4Npc.tab		105	4	{x=334,y=468}
+5	蜈蚣洞1	spiderHole1	map/d601.map	conf/map/map5MonsterConf.tab	conf/map/map5Portal.tab	conf/map/map5Npc.tab	25		4	
+6	蜈蚣洞2	spiderHole2	map/d602.map	conf/map/map6MonsterConf.tab	conf/map/map6Portal.tab	conf/map/map6Npc.tab	26		4	
+7	蜈蚣洞3	spiderHole3	map/d603.map	conf/map/map7MonsterConf.tab	conf/map/map7Portal.tab	conf/map/map7Npc.tab	27		4	
+8	蜈蚣洞4	spiderHole4	map/d604.map	conf/map/map8MonsterConf.tab	conf/map/map8Portal.tab	conf/map/map8Npc.tab	28		4	
+9	蜈蚣洞5	spiderHole5	map/d605.map	conf/map/map9MonsterConf.tab	conf/map/map9Portal.tab	conf/map/map9Npc.tab	29		4	
+10	蜈蚣洞6	spiderHole6	map/d606.map	conf/map/map10MonsterConf.tab	conf/map/map10Portal.tab	conf/map/map10Npc.tab	30		4	
+11	蜈蚣洞7	spiderHole7	map/d607.map	conf/map/map11MonsterConf.tab	conf/map/map11Portal.tab	conf/map/map11Npc.tab			4	
+12	蜈蚣洞8	spiderHole8	map/d608.map	conf/map/map12MonsterConf.tab	conf/map/map12Portal.tab	conf/map/map12Npc.tab			4	
+13	蜈蚣洞9	spiderHole9	map/d609.map	conf/map/map13MonsterConf.tab	conf/map/map13Portal.tab	conf/map/map13Npc.tab			4	
+14	蜈蚣洞10	spiderHole10	map/d610.map	conf/map/map14MonsterConf.tab	conf/map/map14Portal.tab	conf/map/map14Npc.tab			4	
+15	蜈蚣洞11	spiderHole11	map/d611.map	conf/map/map15MonsterConf.tab	conf/map/map15Portal.tab	conf/map/map15Npc.tab			4	
+16	蜈蚣洞12	spiderHole12	map/d612.map	conf/map/map16MonsterConf.tab	conf/map/map16Portal.tab	conf/map/map16Npc.tab			4	
+17	蜈蚣洞13	spiderHole13	map/d613.map	conf/map/map17MonsterConf.tab	conf/map/map17Portal.tab	conf/map/map17Npc.tab			4	
+18	蜈蚣洞14	spiderHole14	map/d614.map	conf/map/map18MonsterConf.tab	conf/map/map18Portal.tab	conf/map/map18Npc.tab			4	
+19	蜈蚣洞15	spiderHole15	map/d615.map	conf/map/map19MonsterConf.tab	conf/map/map19Portal.tab	conf/map/map19Npc.tab			4	
+20	蜈蚣洞16	spiderHole16	map/d616.map	conf/map/map20MonsterConf.tab	conf/map/map20Portal.tab	conf/map/map20Npc.tab			4	
+21	蜈蚣洞17	spiderHole17	map/d617.map	conf/map/map21MonsterConf.tab	conf/map/map21Portal.tab	conf/map/map21Npc.tab			4	
+22	蜈蚣洞18	spiderHole18	map/d618.map	conf/map/map22MonsterConf.tab	conf/map/map22Portal.tab	conf/map/map22Npc.tab			4	
+23	蜈蚣洞19	spiderHole19	map/d619.map	conf/map/map23MonsterConf.tab	conf/map/map23Portal.tab	conf/map/map23Npc.tab			4	
+24	沃玛寺庙入口	womatemper	map/D021.map	conf/map/map24MonsterConf.tab	conf/map/map24Portal.tab	conf/map/map24Npc.tab			4	
+25	沃玛寺庙一层 	womatemper	map/D022.map	conf/map/map25MonsterConf.tab	conf/map/map25Portal.tab	conf/map/map25Npc.tab			4	
+26	沃玛寺庙二层	womatemper	map/D023.map	conf/map/map26MonsterConf.tab	conf/map/map26Portal.tab	conf/map/map26Npc.tab			4	
+27	沃玛寺庙三层  	womatemper	map/D024.map	conf/map/map27MonsterConf.tab	conf/map/map27Portal.tab	conf/map/map27Npc.tab			4	
+28	石墓入口   	temper1	map/D710.MAP	conf/map/map28MonsterConf.tab	conf/map/map28Portal.tab	conf/map/map28Npc.tab			4	
+29	石墓一层  	temper2	map/D711.MAP	conf/map/map29MonsterConf.tab	conf/map/map29Portal.tab	conf/map/map29Npc.tab	32		4	
+30	石墓二层  	temper3	map/D712.MAP	conf/map/map30MonsterConf.tab	conf/map/map30Portal.tab	conf/map/map30Npc.tab	33		4	
+31	石墓三层	temper4	map/D713.MAP	conf/map/map31MonsterConf.tab	conf/map/map31Portal.tab	conf/map/map31Npc.tab	34		4	
+32	石墓四层   	temper5	map/D714.MAP	conf/map/map32MonsterConf.tab	conf/map/map32Portal.tab	conf/map/map32Npc.tab	35		4	
+33	石墓五层  	temper6	map/D715.MAP	conf/map/map33MonsterConf.tab	conf/map/map33Portal.tab	conf/map/map33Npc.tab	36		4	
+34	石墓六层 	temper7	map/D716.MAP	conf/map/map34MonsterConf.tab	conf/map/map34Portal.tab	conf/map/map34Npc.tab	37		4	

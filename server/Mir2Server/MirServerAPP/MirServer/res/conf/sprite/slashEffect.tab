@@ -1,0 +1,9 @@
+id	sz_name	sz_path	offset	count	isLoops	delay	step
+1	SlashEffectUpStand	magic1/	1600	6	1	0.1	1
+2	SlashEffectUpRightStand	magic1/	1610	6	1	0.1	1
+3	SlashEffectRightStand	magic1/	1620	6	1	0.1	1
+4	SlashEffectRightDownStand	magic1/	1630	6	1	0.1	1
+5	SlashEffectDownStand	magic1/	1640	6	1	0.1	1
+6	SlashEffectDownLeftStand	magic1/	1650	6	1	0.1	1
+7	SlashEffectLeftStand	magic1/	1660	6	1	0.1	1
+8	SlashEffectLeftUpStand	magic1/	1670	6	1	0.1	1

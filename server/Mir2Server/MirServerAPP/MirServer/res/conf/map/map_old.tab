@@ -1,0 +1,24 @@
+id	sz_name	sz_name_en	sz_path	sz_monster_distribute	sz_portal_conf	mmapId
+1	±ÈÆæÊ¡	dust	map/0.map	conf/map/map1MonsterConf.tab	conf/map/map1Portal.tab	
+2	ÎÖÂêÉ­ÁÖ	dust	map/1.map	conf/map/map2MonsterConf.tab	conf/map/map2Portal.tab	
+3	¶Ä³¡	DarkCastle	map/B010.map	conf/map/map3MonsterConf.tab	conf/map/map3Portal.tab	
+4	ÃËÖØÊ¡	Mengchong	map/3.map	conf/map/map4MonsterConf.tab	conf/map/map4Portal.tab	
+5	òÚò¼¶´1	spiderHole1	map/d601.map	conf/map/map5MonsterConf.tab	conf/map/map5Portal.tab	25
+6	òÚò¼¶´2	spiderHole2	map/d602.map	conf/map/map6MonsterConf.tab	conf/map/map6Portal.tab	26
+7	òÚò¼¶´3	spiderHole3	map/d603.map	conf/map/map7MonsterConf.tab	conf/map/map7Portal.tab	27
+8	òÚò¼¶´4	spiderHole4	map/d604.map	conf/map/map8MonsterConf.tab	conf/map/map8Portal.tab	28
+9	òÚò¼¶´5	spiderHole5	map/d605.map	conf/map/map9MonsterConf.tab	conf/map/map9Portal.tab	29
+10	òÚò¼¶´6	spiderHole6	map/d606.map	conf/map/map10MonsterConf.tab	conf/map/map10Portal.tab	30
+11	òÚò¼¶´7	spiderHole7	map/d607.map	conf/map/map11MonsterConf.tab	conf/map/map11Portal.tab	
+12	òÚò¼¶´8	spiderHole8	map/d608.map	conf/map/map12MonsterConf.tab	conf/map/map12Portal.tab	
+13	òÚò¼¶´9	spiderHole9	map/d609.map	conf/map/map13MonsterConf.tab	conf/map/map13Portal.tab	
+14	òÚò¼¶´10	spiderHole10	map/d610.map	conf/map/map14MonsterConf.tab	conf/map/map14Portal.tab	
+15	òÚò¼¶´11	spiderHole11	map/d611.map	conf/map/map15MonsterConf.tab	conf/map/map15Portal.tab	
+16	òÚò¼¶´12	spiderHole12	map/d612.map	conf/map/map16MonsterConf.tab	conf/map/map16Portal.tab	
+17	òÚò¼¶´13	spiderHole13	map/d613.map	conf/map/map17MonsterConf.tab	conf/map/map17Portal.tab	
+18	òÚò¼¶´14	spiderHole14	map/d614.map	conf/map/map18MonsterConf.tab	conf/map/map18Portal.tab	
+19	òÚò¼¶´15	spiderHole15	map/d615.map	conf/map/map19MonsterConf.tab	conf/map/map19Portal.tab	
+20	òÚò¼¶´16	spiderHole16	map/d616.map	conf/map/map20MonsterConf.tab	conf/map/map20Portal.tab	
+21	òÚò¼¶´17	spiderHole17	map/d617.map	conf/map/map21MonsterConf.tab	conf/map/map21Portal.tab	
+22	òÚò¼¶´18	spiderHole18	map/d618.map	conf/map/map22MonsterConf.tab	conf/map/map22Portal.tab	
+23	òÚò¼¶´19	spiderHole19	map/d619.map	conf/map/map23MonsterConf.tab	conf/map/map23Portal.tab	

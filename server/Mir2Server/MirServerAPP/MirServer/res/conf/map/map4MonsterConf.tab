@@ -1,0 +1,5 @@
+id	x	y	sz_aiScript	style	reviveTime	alertArea	sz_skill	camp
+1	346	469	MonsterBaseAI	27	1000	10		2
+2	373	446	MonsterBaseAI	26	1000	10		2
+3	380	452	MonsterBaseAI	26	1000	10		2
+4	346	461	MonsterBaseAI	34	1000	10		2

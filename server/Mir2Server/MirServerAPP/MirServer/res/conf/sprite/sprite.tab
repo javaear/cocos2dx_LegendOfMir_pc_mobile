@@ -1,0 +1,117 @@
+#精灵资源列表 type:1.玩家 2.怪物 3.特效										
+id	sz_name	type	sz_file	sz_title	offset	frame	animate	skip	ftime	b_isLoops
+1	男裸体	1	data/Hum.wzl	hum1	0					
+2	女裸体	1	data/Hum.wzl	hum1	600					
+3	赤月兽妖	2	data/Mon4.wzl	Mon4	0					
+4	新手衣服(男)	1	data/Hum.wzl	hum1	1200					
+5	裁决之杖	1	data/Weapon.wzl	weapon1	28800					
+6	重盔甲(男)	1	data/Hum.wzl	hum1	3600					
+7	刺杀剑术特效	10	data/Magic.wzl	magic2	1410	6	8	4	0.2	-1
+8	攻杀剑术特效	10	data/Magic.wzl	magic2	1820	6	8	4	0.2	-1
+9	半月弯刀特效	10	data/Magic.wzl	magic2	1700	6	8	4	0.2	-1
+10	热火剑术特效	10	data/Magic.wzl	magic2	3480	6	8	4	0.2	-1
+11	雷电术开始特效	10	data/Magic2.wzl	magic1	20	3	1	0	0.1	-1
+12	雷电术击中特效	10	data/Magic2.wzl	magic1	10	5	1	0	0.1	-1
+13	火球术开始特效	10	data/Magic.wzl	magic2	0	10	1	0	0.1	-1
+14	火球术飞行特效	10	data/Magic.wzl	magic2	10	6	8	14	0.1	1
+15	火球术爆炸特效	10	data/Magic.wzl	magic2	170	10	1	0	0.1	-1
+16	木棍	1	data/Weapon.wzl	weapon1	1200					
+17	桃木棍	1	data/Weapon.wzl	weapon1	1800					
+18	短剑	1	data/Weapon.wzl	weapon1	2400					
+19	砍山斧	1	data/Weapon.wzl	weapon1	3600					
+20	魔杖	1	data/Weapon.wzl	weapon1	15000					
+21	巨齿剑	1	data/Weapon.wzl	weapon1	15600					
+22	银剑	1	data/Weapon.wzl	weapon1	16200					
+23	银蛇	1	data/Weapon.wzl	weapon1	16800					
+24	弯月	1	data/Weapon.wzl	weapon1	17400					
+25	屠龙	1	data/Weapon.wzl	weapon1	31200					
+26	噬魂法杖	1	data/Weapon.wzl	weapon1	32400					
+27	权力骨杖	1	data/Weapon.wzl	weapon1	33600					
+28	命运之刃	1	data/Weapon.wzl	weapon1	34800					
+29	怒斩	1	data/Weapon.wzl	weapon1	38400					
+30	开天	1	data/Weapon.wzl	weapon1	40800					
+31	龙纹	1	data/Weapon.wzl	weapon1	42000					
+32	红蛇	2	data/Mon4.wzl	Mon4	2160					
+33	骷髅战士	2	data/Mon4.wzl	Mon4	2520					
+34	新手衣服(女)	1	data/Hum.wzl	hum1	1800					
+35	轻盔甲(男)	1	data/Hum.wzl	hum1	2400					
+36	轻盔甲(女)	1	data/Hum.wzl	hum1	3000					
+37	重盔甲(女)	1	data/Hum.wzl	hum1	4200					
+38	魔法袍(男)	1	data/Hum.wzl	hum1	4800					
+39	魔法袍(女)	1	data/Hum.wzl	hum1	5400					
+40	道袍(男)	1	data/Hum.wzl	hum1	6000					
+41	道袍(女)	1	data/Hum.wzl	hum1	6600					
+42	天魔战甲(男)	1	data/Hum.wzl	hum1	7200					
+43	天魔战甲(女)	1	data/Hum.wzl	hum1	7800					
+44	火焰法袍(男)	1	data/Hum.wzl	hum1	8400					
+45	火焰法袍(女)	1	data/Hum.wzl	hum1	9000					
+46	齐天道袍(男)	1	data/Hum.wzl	hum1	9600					
+47	齐天道袍(女)	1	data/Hum.wzl	hum1	10200					
+48	开天战袍(男)	1	data/Hum.wzl	hum1	10800					
+49	开天战袍(女)	1	data/Hum.wzl	hum1	11400					
+50	辉煌法袍(男)	1	data/Hum.wzl	hum1	12000					
+51	辉煌法袍(女)	1	data/Hum.wzl	hum1	12600					
+52	开天战甲(男)	1	data/Hum.wzl	hum1	13200					
+53	开天战甲(女)	1	data/Hum.wzl	hum1	13800					
+54	魔血剑	1	data/Weapon.wzl	weapon1	36000					
+55	魔法盾持续特效	10	data/Magic.wzl	magic2	3880	13	1	4	0.2	-1
+56	魔法盾受击特效	10	data/Magic.wzl	magic2	3900	3	1	4	0.2	-1
+57	牛魔王	2	data/Mon17.wzl	Mon17	1800					
+58	火墙持续效果	10	data/Magic.wzl	magic2	1630	6	1	0	0.2	1
+59	火墙释放效果	10	data/Magic.wzl	magic2	1620	10	1	0	0.2	-1
+60	神兽	3	data/Mon18.wzl	Mon18	0					
+61	神兽攻击特效	10	data/Mon18.wzl	Mon18	820	6	8	4	0.2	-1
+62	头发1	1	data/Hair.wil	Hair	1200					
+63	头发2	1	data/Hair.wil	Hair	1800					
+64	头发3	1	data/Hair.wil	Hair	3000					
+65	头发4	1	data/Hair.wil	Hair	2400					
+66	召唤术特效	10	data/Magic2.wzl	magic1	0	10	1	0	0.1	-1
+67	传送门	10	data/Effect.wzl	Effect	296	6	1	4	0.2	1
+68	飞蛾	2	data/Mon9.wzl	Mon9	0					
+69	跳跳虫	2	data/Mon9.wzl	Mon9	360					
+70	毛毛虫	2	data/Mon9.wzl	Mon9	720					
+71	钳虫	2	data/Mon13.wzl	Mon13	0					
+72	钢铁钳虫	2	data/Mon13.wzl	Mon13	360					
+73	飞蛾攻击特效	10	data/Mon4.wzl	Mon4	3590	6	8	4	0.2	-1
+74	火墙持续效果	10	data/Magic.wil	magic_wil	1630	6	1	0	0.2	1
+75	火墙释放效果	10	data/Magic.wil	magic_wil	1620	10	1	0	0.2	-1
+76	铁匠老板	4	data/npc.wzl	npc	0					
+77	绿玉裁决	1	data/Weapon.wil	weapon1_wil	60000					
+78	斩魄刀	1	data/Weapon.wil	weapon1_wil	52800					
+79	逆火屠龙	1	data/Weapon.wil	weapon1_wil	48000					
+80	逆火权杖	1	data/Weapon.wil	weapon1_wil	45600					
+81	魔龙飞蛾	2	data/Mon22.wzl	Mon22	0					
+82	魔龙士兵	2	data/Mon22.wzl	Mon22	460					
+83	魔龙斗士	2	data/Mon22.wzl	Mon22	1180					
+84	魔龙弓手	2	data/Mon22.wzl	Mon22	1900					
+85	魔龙教主	5	data/Mon22.wzl	Mon22	2700					
+86	魔龙教主攻击特效	10	data/Mon22.wzl	Mon22	3442	4	8	6	0.2	-1
+87	蛇蝎	2	data/Mon19.wzl	Mon19	0					
+88	蛇蝎攻击特效	10	data/Mon19.wzl	Mon19	430	8	8	2	0.2	-1
+89	猪卫	2	data/Mon19.wzl	Mon19	520					
+90	诸位攻击特效	10	data/Mon19.wzl	Mon19	860	6	8	4	0.2	-1
+91	魔龙邪眼	2	data/Mon19.wzl	Mon19	1574					
+92	魔龙邪眼2	2	data/Mon19.wzl	Mon19	1934					
+93	魔龙血蛙	2	data/Mon19.wzl	Mon19	2294					
+94	魔龙刺蛙	2	data/Mon19.wzl	Mon19	2654					
+95	魔龙刺蛙	2	data/Mon19.wzl	Mon19	3014					
+96	传送员	4	data/npc.wzl	npc	480					
+97	书店员	4	data/npc.wzl	npc	60					
+98	杂货老板	4	data/npc.wzl	npc	180					
+99	服装店	4	data/npc.wzl	npc	240					
+100	魔龙箭	10	data/Mon22.wzl	Mon22	1989	1	8	19	0.2	-1
+101	恶毒血蛆	2	data/Mon8.wzl	Mon8	1440					
+102	蜈蚣	2	data/Mon8.wzl	Mon8	1080					
+103	刀卫	2	data/Mon8.wzl	Mon8	720					
+104	鹰卫	2	data/Mon8.wzl	Mon8	360					
+105	恶狼	2	data/Mon8.wzl	Mon8	0					
+106	红野猪	2	data/Mon12.wzl	Mon12	0					
+107	黑野猪	2	data/Mon12.wzl	Mon12	360					
+108	白野猪	2	data/Mon12.wzl	Mon12	720					
+109	俞母蜘蛛	2	data/Mon12.wzl	Mon12	1080					
+110	不知道蜘蛛	2	data/Mon12.wzl	Mon12	1440					
+111	巨猩	2	data/Mon12.wzl	Mon12	1800					
+112	双头血魔	2	data/Mon12.wzl	Mon12	2160					
+113	毒蜘蛛	2	data/Mon12.wzl	Mon12	2520					
+114	麻痹	2	data/Mon12.wzl	Mon12	2880					
+115	毛蜘蛛	2	data/Mon12.wzl	Mon12	3240					

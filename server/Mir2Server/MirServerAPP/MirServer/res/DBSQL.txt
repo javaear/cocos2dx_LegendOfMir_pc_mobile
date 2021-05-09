@@ -1,0 +1,13 @@
+CREATE TABLE data_account(
+   pid INTEGER PRIMARY KEY,
+   account blob NOT NULL,
+   password blob NOT NULL, 
+   actors blob NOT NULL)");
+
+
+CREATE TABLE data_actor(
+   aid INTEGER PRIMARY KEY, 
+   pid int not null,
+   info blob NOT NULL, 
+   gold int not null, 
+   money int not null)");

@@ -1,0 +1,41 @@
+﻿#角色配置表												
+id	sz_name	sz_class	bodyid	moveDelta	allowRun	slashDelta	castDelta	attributeid	sz_excConf	exc	sz_skill	sz_dropItem
+1	战士	Actor		0	1	1	1	1	conf/actor/HeroLevelExc.tab			
+2	法师	Actor		0	1	1	1	1	conf/actor/HeroLevelExc.tab			
+3	道士	Actor		0	1	1	1	1	conf/actor/HeroLevelExc.tab			
+4	月魔战士	Monster	3	1	0	2.5	1	4		300		
+5	牛魔大将	Monster	57	1	0	1.5	1	5		2000		{{typeid=54,per=0.01},{typeid=53,per=0.2},{typeid=52,per=0.2},{typeid=53,per=0.2},{typeid=51,per=0.2},{typeid=50,per=0.2},{typeid=49,per=0.2},}
+6	神兽	GodMon	60	0	0	2	1	6		0	{{skillid=9,level=0,exc=0}}	
+7	飞蛾	Monster	68	1	0	2.5	1	7		130	{{skillid=11,level=0,exc=0}}	
+8	跳跳虫	Monster	69	1	0	2.5	1	8		125		
+9	毛毛虫	Monster	70	1	0	2.5	1	9		128		
+10	钳虫	Monster	71	1	0	2.5	1	10		140		
+11	钢铁钳虫	Monster	72	1	0	2.5	1	11		800		
+12	魔龙飞蛾	Monster	81	1	0	2.5	1	11		800		
+13	魔龙士兵	Monster	82	1	0	2.5	1	11		800		
+14	魔龙斗士	Monster	83	1	0	2.5	1	11		800		
+15	魔龙弓手	Monster	84	1	0	2.5	2.5	11		800	{{skillid=16,level=0,exc=0}}	
+16	魔龙教主	Monster	85	1	0	2.5	1	11		800	{{skillid=13,level=0,exc=0}}	
+17	蛇蝎	Monster	87	1	0	2.5	1	11		800	{{skillid=15,level=0,exc=0}}	
+18	猪卫	Monster	89	1	0	2.5	1	11		800	{{skillid=14,level=0,exc=0}}	
+19	魔龙邪眼	Monster	91	1	0	2.5	1	10		800		
+20	魔龙邪眼2	Monster	92	1	0	2.5	1	10		800		
+21	魔龙血蛙	Monster	93	1	0	2.5	1	9		800		
+22	魔龙刺蛙	Monster	94	1	0	2.5	1	9		800		
+23	魔龙刺蛙	Monster	95	1	0	2.5	1	9		800		
+24	恶毒血蛆	Monster	101	1	0	2.5	1	9		800		
+25	蜈蚣	Monster	102	1	0	2.5	1	9		800		
+26	刀卫	Monster	103	1	0	2.5	1	14		800		
+27	鹰卫	Monster	104	1	0	2.5	2.5	13		800	{{skillid=16,level=0,exc=0}}	
+28	恶狼	Monster	105	1	0	2.5	1	9		800		
+29	红野猪	Monster	106	1	0	2.5	1	9		800		
+30	黑野猪	Monster	107	1	0	2.5	1	9		800		
+31	白野猪	Monster	108	1	0	2.5	1	9		800		
+32	俞母蜘蛛	Monster	109	1	0	2.5	1	9		800		
+33	不知道蜘蛛	Monster	110	1	0	2.5	1	9		800		
+34	巨猩	Monster	111	1	0	2.5	1	9		800		
+35	双头血魔	Monster	112	1	0	2.5	1	9		800		
+36	毒蜘蛛	Monster	113	1	0	2.5	1	9		800		
+37	麻痹	Monster	114	1	0	2.5	1	9		800		
+38	毛蜘蛛	Monster	115	1	0	2.5	1	9		800		
+39	弓箭手	Monster	104	1	0	2.5	2.5	12		0	{{skillid=16,level=0,exc=0}}	
